@@ -1,2 +1,11 @@
-# heap_rain
-Team - Pushkar Maurya ; Tarun Kanojia ; Deepak Sagar ; Shivam Kumar Vimal ; Ravikant Sharma ; Sohail Khan
+# Heap Rain
+
+**Team Members**
+<ul>
+  <li>Pushkar Maurya - Leader</li>
+  <li>Tarun Kanojia</li>
+  <li>Deepak Sagar</li>
+  <li>Shivam Kumar Vimal</li>
+  <li>Ravikant Sharma</li>
+  <li>Sohail Khan</li>
+</ul>
